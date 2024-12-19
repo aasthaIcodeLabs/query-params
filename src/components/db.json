@@ -1,0 +1,181 @@
+{
+  "genders": [
+    { "name": "male", "label": "Male" },
+    { "name": "female", "label": "Female" }
+  ],
+  "locations": [
+    { "name": "mohali", "label": "Mohali" },
+    { "name": "chandigarh", "label": "Chandigarh" },
+    { "name": "newChandigarh", "label": "New Chandigarh" }
+  ],
+  "db": [
+    {
+      "firstName": "Nia",
+      "gender": "male",
+      "locations": ["mohali", "chandigarh" , "newChandigarh"]
+    },
+    {
+      "firstName": "Tina",
+      "gender": "female",
+      "locations": ["mohali" , "newChandigarh"]
+    },
+    {
+      "firstName": "Monu",
+      "gender": "female",
+      "locations": ["chandigarh", "mohali", "newChandigarh"]
+    },
+    {
+      "firstName": "Raj",
+      "gender": "female",
+      "locations": ["chandigarh" , "newChandigarh"]
+    },
+    {
+      "firstName": "Raja",
+      "gender": "male",
+      "locations": ["chandigarh",  "newChandigarh"]
+    },
+    {
+      "firstName": "Rajj",
+      "gender": "male",
+      "locations": [ "mohali", "newChandigarh"]
+    },
+    {
+      "firstName": "Raje",
+      "gender": "male",
+      "locations": ["chandigarh"]
+    },
+    {
+      "firstName": "Rajan",
+      "gender": "female",
+      "locations": ["mohali"]
+    },
+    {
+      "firstName": "Raju",
+      "gender": "male",
+      "locations": ["newChandigarh"]
+    },
+    {
+      "firstName": "Ram",
+      "gender": "male",
+      "locations": ["mohali"]
+    },
+    {
+      "firstName": "Piya",
+      "gender": "male",
+      "locations": ["mohali"]
+    },
+    {
+      "firstName": "Angel",
+      "gender": "male",
+      "locations": ["mohali"]
+    },
+    {
+      "firstName": "Sita",
+      "gender": "male",
+      "locations": ["chandigarh" , "mohali"]
+    },
+    {
+      "firstName": "Rajman",
+      "gender": "female",
+      "locations": ["chandigarh" , "mohali"]
+
+    },
+
+    {
+      "firstName": "Rajman",
+      "gender": "female",
+      "locations": ["newChandigarh"]
+
+    },
+    {
+      "firstName": "Rajman",
+      "gender": "female",
+      "locations": ["chandigarh"]
+
+    },
+    {
+      "firstName": "Nia",
+      "gender": "male",
+      "locations": ["mohali", "chandigarh" , "newChandigarh"]
+    },
+    {
+      "firstName": "Tina",
+      "gender": "female",
+      "locations": ["mohali" , "newChandigarh"]
+    },
+    {
+      "firstName": "Monu",
+      "gender": "female",
+      "locations": ["chandigarh", "mohali", "newChandigarh"]
+    },
+    {
+      "firstName": "Raj",
+      "gender": "female",
+      "locations": ["chandigarh" , "newChandigarh"]
+    },
+    {
+      "firstName": "Raja",
+      "gender": "male",
+      "locations": ["chandigarh",  "newChandigarh"]
+    },
+    {
+      "firstName": "Rajj",
+      "gender": "male",
+      "locations": [ "mohali", "newChandigarh"]
+    },
+    {
+      "firstName": "Raje",
+      "gender": "male",
+      "locations": ["chandigarh"]
+    },
+    {
+      "firstName": "Rajan",
+      "gender": "female",
+      "locations": ["mohali"]
+    },
+    {
+      "firstName": "Raju",
+      "gender": "male",
+      "locations": ["newChandigarh"]
+    },
+    {
+      "firstName": "Ram",
+      "gender": "male",
+      "locations": ["mohali"]
+    },
+    {
+      "firstName": "Piya",
+      "gender": "male",
+      "locations": ["mohali"]
+    },
+    {
+      "firstName": "Angel",
+      "gender": "male",
+      "locations": ["mohali"]
+    },
+    {
+      "firstName": "Sita",
+      "gender": "male",
+      "locations": ["chandigarh" , "mohali"]
+    },
+    {
+      "firstName": "Rajman",
+      "gender": "female",
+      "locations": ["chandigarh" , "mohali"]
+
+    },
+
+    {
+      "firstName": "Rajman",
+      "gender": "female",
+      "locations": ["newChandigarh"]
+
+    },
+    {
+      "firstName": "Rajman",
+      "gender": "female",
+      "locations": ["chandigarh"]
+
+    }
+  ]
+}
